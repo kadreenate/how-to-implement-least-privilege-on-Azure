@@ -19,7 +19,7 @@ After that, I added a user to a security group using this command:  az ad group 
 
 I repeated step 2 for all the users. Here's my complete user list: 
 
-<img width="590" height="335" alt="viXUq95usm" src="https://github.com/user-attachments/assets/45adbe64-bd44-41f9-9849-8190cea515cd" />
+<img width="2079" height="360" alt="image" src="https://github.com/user-attachments/assets/d0503892-6d8b-4345-a5fc-764a21556c99" />
 
 Step 3: Attach a role to one of the resource groups. I attached the contributor role to the res-dev-code resource group: 
 
@@ -29,5 +29,5 @@ I attached the Contributor role to Res-prod-database resource group:
 
 <img width="1908" height="386" alt="Wo16Ylc0Yg" src="https://github.com/user-attachments/assets/c16da011-3c42-464e-94d4-33658c9df07e" />
 
-I also attached the reader role to the res-iam-console resource group: 
+I also attached the reader role to the  
 
