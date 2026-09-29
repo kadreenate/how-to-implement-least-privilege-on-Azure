@@ -21,13 +21,13 @@ I repeated step 2 for all the users. Here's my complete user list:
 
 <img width="2079" height="360" alt="image" src="https://github.com/user-attachments/assets/d0503892-6d8b-4345-a5fc-764a21556c99" />
 
-Step 3: Attach a role to one of the resource groups. I attached the contributor role to the res-dev-code resource group: 
+Step 3: Attach a role to one of the security groups. I attached the contributor role to the res-dev-code group: 
 
 <img width="1077" height="634" alt="3AVufDajDH" src="https://github.com/user-attachments/assets/beb35642-5bba-4c5b-afb2-1e885f5533e3" />
 
-I attached the Contributor role to Res-prod-database resource group:
+I attached the Contributor role to Res-prod-database group group:
 
 <img width="1908" height="386" alt="Wo16Ylc0Yg" src="https://github.com/user-attachments/assets/c16da011-3c42-464e-94d4-33658c9df07e" />
 
-I also attached the reader role to the  
+I also attached the reader role to the res-iam-console security group and the res-iam-console resource group
 
