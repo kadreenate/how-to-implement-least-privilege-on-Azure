@@ -1,0 +1,1 @@
+# how-to-implement-least-privilege-on-Azure
